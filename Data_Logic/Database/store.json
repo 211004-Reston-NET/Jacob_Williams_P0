@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Games Galore",
+        "State": "ME",
+        "City": "Portland" 
+    },
+    {
+        "Name": "Games Galore",
+        "State": "CA",
+        "City": "Modesto"
+    },
+    {
+        "Name": "Games Galore",
+        "State": "Florida",
+        "City": "Orlando"
+    }
+]
